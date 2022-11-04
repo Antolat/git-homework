@@ -1,0 +1,9 @@
+style
+
+body {
+margin 0 auto;
+}
+
+h1 {
+text-decoration: none;
+}
